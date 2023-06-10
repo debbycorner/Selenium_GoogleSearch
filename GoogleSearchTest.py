@@ -10,7 +10,7 @@ class GoogleSearch(unittest.TestCase):
 
     def test_search_automaticnsstepbysep(self):
         self.driver.get("https://google.com")
-        self.driver.find_element_by_name("q").send_keys("Current stock")
+        self.driver.find_element_by_name("q").send_keys("Current Stock Price of Google")
         self.driver.find_element_by_name("btnK").click()
 
    @classmethod
