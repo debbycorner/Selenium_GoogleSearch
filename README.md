@@ -1,2 +1,2 @@
-<h5> The Project </h5>
-<p> This is a simple Selenium project un which I automate a Google Search.</p>
+<h2> The Project </h2>
+<p> This is a Selenium project in which I automate a Google Search.</p>
